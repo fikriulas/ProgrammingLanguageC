@@ -2,6 +2,7 @@
 /*
 Fikri ulaş Osmanağaoğlu
 http://bilisimaraci.com/c-ile-dosya-islemleri-dosya-okuma/programlama-dili-c/
+
 */
 int main()
 {
